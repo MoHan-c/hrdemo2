@@ -40,6 +40,7 @@ public class HrTest {
     @Test
     public void testTyf(){
         System.out.println("tfy测试成功！！！！");
+        System.out.println("GitHub测试");
     }
 
     @Test
