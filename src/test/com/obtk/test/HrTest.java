@@ -47,5 +47,6 @@ public class HrTest {
     public void testzhr(){
         System.out.println("zh_SSS测试");
         System.out.println("GitHub测试");
+        System.out.println("github—zdf");
     }
 }
